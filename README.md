@@ -3,7 +3,7 @@
 ## Pro
 
 - 2024 - ... - Senior Engineer at [Primo](https://getprimo.com/)
-- 2018-2024 - Form Software Engineer to Tech Lead Engineer at [PayFit](https://payfit.com)
+- 2018-2024 - From Software Engineer to Tech Lead Engineer at [PayFit](https://payfit.com)
 
 ## Projects
 
