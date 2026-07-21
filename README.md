@@ -9,3 +9,4 @@
 
 - [Git Whisper](https://github.com/mathieuletyrant/git-whisper) - An intelligent CLI tool that generates meaningful and consistent commit messages using AI
 - [SuperDuty](https://www.superduty.app/) - Simplify Team Rotation Scheduling
+- [RouteScout](https://github.com/mathieuletyrant/route-scout) - VSCode extension to find where each OpenAPI endpoint is used across your codebase.
