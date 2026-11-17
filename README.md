@@ -10,7 +10,7 @@
 - [Git Whisper](https://github.com/mathieuletyrant/git-whisper) - An intelligent CLI tool that generates meaningful and consistent commit messages using AI
 - [SuperDuty](https://www.superduty.app/) - Simplify Team Rotation Scheduling
 - [RouteScout](https://github.com/mathieuletyrant/route-scout) - VSCode extension to find where each OpenAPI endpoint is used across your codebase.
-- [Cozytouch](https://github.com/gduteil/cozytouch) - Atlantic Cozytouch integration for Home Assistant (HACS)
+- [Cozytouch](https://github.com/mathieuletyrant/cozytouch-hacs) - Atlantic Cozytouch integration for Home Assistant (HACS)
 - [Retroscan](https://github.com/mathieuletyrant/retroscan) - A macOS CLI and app that scans from a networked Brother printer, cuts every print out of the page, puts faces upright and embeds the metadata
 - [Spotarr](https://github.com/mathieuletyrant/spotarr) - Share a reel from your iPhone, get the film: an LLM watches and listens, TMDB confirms, Seerr adds it to your library. Self-hosted.
 - [Snug](https://github.com/mathieuletyrant/snug) - 🛋️ A cozy, self-hosted TV series tracker: per-episode progress, Jellyfin webhook, TMDB, PWA.
